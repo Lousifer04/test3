@@ -1,0 +1,28 @@
+To edit the images and videos on the page it is very easy 
+
+You must replace the files in the image folder with the ones you want to use
+
+Warning you must keep their basic name otherwise the program will not see them
+
+
+For the background video :
+you will have to choose a video renamed it "background" then you will have to go on this link "https://ezgif.com/video-to-jpg"
+to put your video, recorded the 1st image, renamed it in "background" then you have more than has to move the file in the folder "image"
+
+
+For the preview :
+You have to save the images you want for make your gif, with "https://ezgif.com/maker"
+once the gif is finished you rename it "preview" and you move it in the image folder 
+
+Warning if your preview is an image you have to change the extension in "index.js" line 15 example preview.gif, preview.jpg, preview.png
+
+
+For the icon :
+You have to choose the image you want and then convert it into "svg" format, you can do it with this site "https://onlineconvertfree.com/"
+ once finished you rename it "logo" and you move it into the image folder
+
+
+
+Shop : https://olaservices.sellix.io/
+
+Add a feedback if you like my product <3
